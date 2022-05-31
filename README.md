@@ -1,10 +1,14 @@
 # Simple_Calculator
 
-#### this is a simple calcaulater 
+#### this is a simple calcaulater
 
-##### and this are image sample from app 
+##### and this are image sample from app
 
-##### the application are opensource feel free to shear it and edit it 
+##### the application are opensource feel free to shear it and edit it
+
+##### auto theme change (day/night).
+
+##### there is a secret feature in app try to find it ;)
 
 ![App icon](https://github.com/M4A28/Simple_Calculator/blob/main/ic_calcaultor.png "App icon")
 
