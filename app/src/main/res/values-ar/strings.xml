@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الحاسبة</string>
+    <string name="error">خطاء</string>
+    <string name="dvidy_by_0">لا يمكن القسة على صفر</string>
+    <string name="max_len">لقد وصلت الى اقصى عدد من الارقام</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="share_result">شارك النتيجة</string>
+    <string name="weekend">عطلة نهاية الاسبوع</string>
+    <string name="chik_out">افتح بسرعة !!</string>
+    <string name="massage">عطلة نهاية اسبوع سعيدة لك يا صديقي العزيز</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="fife">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+</resources>
