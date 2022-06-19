@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/intro_layout"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/darkGrey"
+    android:layout_height="match_parent"
+    tools:context=".Intro">
+
+    <TextView
+        android:id="@+id/mohammedTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="55sp"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:shadowColor="@color/primary"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="10"
+        android:text="Mohammed"/>
+
+</LinearLayout>
